@@ -1,3 +1,0 @@
-the further experimental results and the overview of the submitted code and data are presented in "KAE-Informer_Technical_Code_Data_Appendix.pdf"
-
-The submittd data and code are all in the folder: KAE-Informer
